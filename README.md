@@ -18,7 +18,7 @@ Este material foi preparado para estudantes de diversas áreas (ciências bioló
 - Desafios e Limitações  
 - Exercícios (incluindo baseados no livro *Mãos à Obra*)  
 
-📂 [Ler capítulo 1](capitulo/c1.md)
+📂 [Ler capítulo 1](capitulos/c1.md)
 
 ---
 
@@ -36,7 +36,7 @@ Este material foi preparado para estudantes de diversas áreas (ciências bioló
 - Exercícios guiados  
 - Lista extra de **50 exercícios práticos**  
 
-📂 [Ler capítulo 2](capitulo/c2.md)
+📂 [Ler capítulo 2](capitulos/c2.md)
 
 ---
 
