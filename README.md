@@ -40,6 +40,19 @@ Este material foi preparado para estudantes de diversas áreas (ciências bioló
 
 ---
 
+### **Capítulo 3 – Introdução à Ciência de Dados**
+- O que é Ciência de Dados  
+- Tipos de Dados (estruturados, semiestruturados, não estruturados)  
+- O ciclo de vida da Ciência de Dados  
+- Estatísticas descritivas manuais em Python  
+- Análises exploratórias com listas e dicionários  
+- Limitações da abordagem manual  
+- Exercícios práticos e reflexivos  
+
+📂 [Ler capítulo 3](capitulos/c3.md)
+
+---
+
 ## 🚀 Próximos capítulos
 - **Capítulo 3 – Introdução à Ciência de Dados**  
 - **Capítulo 4 – Ecossistema Python para Data Science e ML**  
