@@ -69,7 +69,6 @@ Este material foi preparado para estudantes de diversas áreas (ciências bioló
 ---
 
 ### **Capítulo 5 – Ecossistema Python para Data Science e ML**
-- Introdução  
 - BeautifulSoup — Coleta de dados na Web (Web Scraping)  
 - NumPy — Arrays, Vetorização e Broadcasting  
 - SciPy — Estatística, Otimização e Sinais  
