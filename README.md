@@ -53,10 +53,7 @@ Este material foi preparado para estudantes de diversas áreas (ciências bioló
 
 ---
 
-## 🚀 Próximos capítulos
-- **Capítulo 3 – Introdução à Ciência de Dados**  
-- **Capítulo 4 – Ecossistema Python para Data Science e ML**  
-- **Capítulo 5 – Aprendizado Supervisionado (SVM, Árvores, Floresta)**  
+
 
 ---
 
