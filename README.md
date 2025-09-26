@@ -69,15 +69,15 @@ Este material foi preparado para estudantes de diversas áreas (ciências bioló
 ---
 
 ### **Capítulo 5 – Ecossistema Python para Data Science e ML**
-- 5.0 Introdução  
-- 5.1 BeautifulSoup — Coleta de dados na Web (Web Scraping)  
-- 5.2 NumPy — Arrays, Vetorização e Broadcasting  
-- 5.3 SciPy — Estatística, Otimização e Sinais  
-- 5.4 Pandas — Dados Tabulares e DataFrames  
-- 5.5 Matplotlib — Visualização Gráfica de Dados  
-- 5.6 Seaborn — Visualização Estatística de Alto Nível  
-- 5.7 Scikit-learn — Aprendizado de Máquina em Python  
-- 5.8 Integração — Um Mini Pipeline Biomédico  
+- Introdução  
+- BeautifulSoup — Coleta de dados na Web (Web Scraping)  
+- NumPy — Arrays, Vetorização e Broadcasting  
+- SciPy — Estatística, Otimização e Sinais  
+- Pandas — Dados Tabulares e DataFrames  
+- Matplotlib — Visualização Gráfica de Dados  
+- Seaborn — Visualização Estatística de Alto Nível  
+- Scikit-learn — Aprendizado de Máquina em Python  
+- Integração — Um Mini Pipeline Biomédico  
 
 📂 [Ler capítulo 5](capitulos/c5.md)
 
