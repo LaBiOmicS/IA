@@ -79,5 +79,5 @@ Este material foi preparado para estudantes de diversas áreas (ciências bioló
 Sinta-se à vontade para sugerir melhorias ou abrir *issues* com dúvidas.
 
 ---
-## Citação
+##📑 Citação
 Se for utilizar esse material, cite a fonte abaixo:
