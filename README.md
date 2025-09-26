@@ -82,6 +82,21 @@ Este material foi preparado para estudantes de diversas áreas (ciências bioló
 
 ---
 
+### **Capítulo 6 – Aprendizado Supervisionado: Classificação**
+- Introdução ao aprendizado supervisionado  
+- Dataset Iris como exemplo  
+- Máquinas de Vetores de Suporte (SVM)  
+- Árvores de Decisão  
+- Florestas Aleatórias (Random Forests)  
+- Comparação entre modelos de classificação  
+- Boas práticas em classificação  
+- Exercícios integradores  
+- Conclusão  
+
+📂 [Ler capítulo 6](capitulos/c6.md)
+
+---
+
 ## 📚 Referência principal
 - Géron, A. (2019). *Mãos à Obra: Aprendizado de Máquina com Scikit-Learn e TensorFlow*. O’Reilly.  
 
