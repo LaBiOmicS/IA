@@ -80,4 +80,4 @@ Sinta-se à vontade para sugerir melhorias ou abrir *issues* com dúvidas.
 
 ---
 ## 📑 Citação
-Se for utilizar esse material, cite a fonte abaixo:
+Se for utilizar esse material didático, cite a fonte abaixo:
