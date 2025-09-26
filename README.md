@@ -53,7 +53,20 @@ Este material foi preparado para estudantes de diversas áreas (ciências bioló
 
 ---
 
+### **Capítulo 4 – Fundamentos de Estatística para Ciência de Dados**
+- Por que Estatística é essencial em Ciência de Dados  
+- Estatística descritiva vs. inferencial  
+- Medidas de tendência central (média, mediana, moda)  
+- Medidas de dispersão (amplitude, variância, desvio padrão)  
+- Distribuições de probabilidade (Normal, Binomial, Poisson)  
+- Probabilidade básica e condicional  
+- Correlação e associação  
+- Exercícios normais  
+- Lista extra de **50 exercícios práticos em Python**  
 
+📂 [Ler capítulo 4](capitulo/c4.md)
+
+---
 
 ---
 
