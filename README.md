@@ -1,4 +1,4 @@
-# 📘 Material didático para disciplina de Inteligência Artificial
+# 📘 Material para disciplina de Inteligência Artificial
 ---
 
 Bem-vindo ao repositório do curso!  
